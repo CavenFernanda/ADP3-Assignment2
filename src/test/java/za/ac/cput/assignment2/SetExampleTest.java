@@ -1,5 +1,10 @@
 package za.ac.cput.assignment2;
-
+/***
+ *
+ * @author Caven Fernanda - 218074905
+ *
+ * This class Tests Add, remove and find methods of Set
+ * */
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;

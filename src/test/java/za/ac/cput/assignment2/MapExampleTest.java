@@ -1,5 +1,10 @@
 package za.ac.cput.assignment2;
-
+/***
+ *
+ * @author Caven Fernanda - 218074905
+ *
+ * This class Tests Add, remove and find methods of Map
+ * */
 import org.junit.jupiter.api.*;
 import java.util.HashMap;
 import static org.junit.jupiter.api.Assertions.*;

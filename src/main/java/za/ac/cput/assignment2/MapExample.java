@@ -1,5 +1,10 @@
 package za.ac.cput.assignment2;
-
+/***
+ *
+ * @author Caven Fernanda - 218074905
+ *
+ * Adds, removes and selects element within a HashMap
+ * */
 import java.util.HashMap;
 
 public class MapExample {

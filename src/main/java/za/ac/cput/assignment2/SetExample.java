@@ -1,6 +1,12 @@
 package za.ac.cput.assignment2;
 import java.util.HashSet;
 
+/***
+ *
+ * @author Caven Fernanda - 218074905
+ *
+ * Adds, removes and selects element within a Set
+ * */
 public class SetExample {
     HashSet<String> city = new HashSet<String>();
 

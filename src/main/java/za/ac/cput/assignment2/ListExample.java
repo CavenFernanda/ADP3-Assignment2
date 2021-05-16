@@ -6,7 +6,7 @@ import java.util.LinkedList;
  *
  * @author Caven Fernanda - 218074905
  *
- * Adds, removes and selects element within a ArrayList
+ * Adds, removes and selects element within a LinkedList
  * */
 public class ListExample {
     LinkedList<Integer> age = new LinkedList<Integer>();

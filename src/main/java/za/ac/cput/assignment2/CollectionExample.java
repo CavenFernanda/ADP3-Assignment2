@@ -16,7 +16,7 @@ public class CollectionExample {
         value.add(5);
         value.add(8);
         value.add(7);
-        value.remove(1);
+        value.remove(5);
     }
 
     public void findAge(){

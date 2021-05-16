@@ -1,5 +1,10 @@
 package za.ac.cput.assignment2;
-
+/***
+ *
+ * @author Caven Fernanda - 218074905
+ *
+ * This class Tests Add, remove and find methods of Collection
+ * */
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -34,7 +39,7 @@ class CollectionExampleTest <Integer>{
         value.add(5);
         value.add(145);
         value.add(74);
-        value.remove(0);
+        value.remove(5);
 
         assertEquals(2,value.size());
     }
